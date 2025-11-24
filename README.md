@@ -91,10 +91,10 @@ Final section delivers **clear, data-driven business recommendations**
 ##  5. How to Run the Project
 
 ### **1. Clone the Repository**
-\`\`\`
+```
 git clone [Your Repository URL]
 cd project_sales
-\`\`\`
+```
 
 ### **2. Install Dependencies**
 Use Anaconda or pip to install:
@@ -105,18 +105,18 @@ Use Anaconda or pip to install:
 - jupyter
 
 ### **3. Generate Synthetic Data**
-\`\`\`
+```
 python utils.py
-\`\`\`
+```
 This automatically creates:
-\`\`\`
+```
 data/initial.csv
-\`\`\`
+```
 
 ### **4. Run the Full Analysis**
-\`\`\`
+```
 jupyter notebook notebook.ipynb
-\`\`\`
+```
 Run all cells from top to bottom.
 
 ---
