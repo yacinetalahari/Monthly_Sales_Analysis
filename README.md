@@ -32,7 +32,7 @@ This project relies on the core tools of the Python data science ecosystem:
 
 ##  3. Project Structure
 
-\`\`\`
+----
 project_sales/
 │
 ├── notebook.ipynb        # The main analysis notebook (Steps 2–6)
@@ -42,7 +42,7 @@ project_sales/
     ├── initial.csv       # Raw generated sales data
     ├── final.csv         # DataFrame with calculated metrics
     └── output.csv        # Final summary outputs (pivot tables, etc.)
-\`\`\`
+
 
 ---
 
@@ -123,12 +123,11 @@ Run all cells from top to bottom.
 ---
 
 ##  6. Results and Recommendations
-*(This section will be filled after completing the analysis.)*
 
-**Top Performer:** _[Insert Best Product]_  
-**Seasonal Peak:** _[Insert Best Quarter]_  
+**Top Performer:** [Product A]
+**Seasonal Peak:**  [October–December]
 **Recommendation:**  
-_Add a clear business action, e.g.: Increase marketing budget specifically during Q3 to maximize seasonal demand._
+_Add a clear business action, e.g.: Increase marketing budget specifically during Q3 to maximize seasonal demand._ and .Increase marketing budget in Q4 to maximize seasonal demand. .Improve sales consistency for Product D. .Consider mid-year promotions in Q2 to boost sales.
 
 ---
 
@@ -137,4 +136,3 @@ _Add a clear business action, e.g.: Increase marketing budget specifically durin
 **Yassine TALAHARI**  
 **MESBAHI Abdullah**
 
-EOF
