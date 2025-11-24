@@ -31,8 +31,6 @@ This project relies on the core tools of the Python data science ecosystem:
 ---
 
 ##  3. Project Structure
-
-----
 project_sales/
 │
 ├── notebook.ipynb        # The main analysis notebook (Steps 2–6)
@@ -43,8 +41,6 @@ project_sales/
     ├── final.csv         # DataFrame with calculated metrics
     └── output.csv        # Final summary outputs (pivot tables, etc.)
 
-
----
 
 ##  4. Key Steps & Analysis
 
