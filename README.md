@@ -42,6 +42,7 @@ project_sales/
     └── output.csv        # Final summary outputs (pivot tables, etc.)
 
 
+
 ##  4. Key Steps & Analysis
 
 ### **Stage 1 — Data Generation & Preparation**
